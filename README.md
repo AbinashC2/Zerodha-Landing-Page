@@ -1,1 +1,2 @@
-(https://github.com/AbinashC2/Zerodha-Landing-Page/assets/132013987/2c28af45-b336-4a24-9603-ec46e3039b91)
+
+![Screenshot 2024-05-14 142419](https://github.com/AbinashC2/Zerodha-Landing-Page/assets/132013987/0c25c7b8-3ffc-4940-a33a-0bb988ae6b05)
